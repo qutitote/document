@@ -4,7 +4,7 @@
 ## 必要なツール
 
 ### Git
-https://ja.atlassian.com/software/sourcetree
+https://git-scm.com/
 
 ### Sourcetree
 https://ja.atlassian.com/software/sourcetree
